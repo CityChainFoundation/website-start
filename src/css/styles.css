@@ -26,6 +26,11 @@
   margin-bottom: 30px !important;
 }
 
+.emphasis
+{
+  border-bottom: 2px solid #dd9529;
+}
+
 h1 {
   margin-top: 20px;
   margin-bottom: 10px;
