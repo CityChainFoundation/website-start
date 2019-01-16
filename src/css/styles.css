@@ -28,7 +28,8 @@
 
 .emphasis
 {
-  border-bottom: 2px solid #dd9529;
+  font-weight: normal;
+  border-bottom: 1px solid #dd9529;
 }
 
 h1 {
